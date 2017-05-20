@@ -78,20 +78,20 @@ function create_config( )
 		"write",
 		"addkick"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {307494481,0},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》parsol v.2
+    info_text = [[》star v.2
 
 
-》https://github.com/mohammadrezatitan/parsol
+》https://github.com/Startg/client
 
 》Admins :
-》@mohammadrezajiji 《
+》@sudo_star 《
 		
 》Special thanks to :
-》@BeyondTeam《
+》@sbt_robo《
 》@luaerror
 ]],
   }
